@@ -420,7 +420,8 @@
                 "exists": true,
                 "StarRequirement": "0",
                 "Requirements": [
-                    "Course 10 Cannon"
+                    "Course 10 Cannon",
+                    "Vanish Cap"
                 ],
                 "ConditionalRequirements": []
             },
@@ -428,7 +429,8 @@
                 "exists": true,
                 "StarRequirement": "0",
                 "Requirements": [
-                    "Course 10 Cannon"
+                    "Course 10 Cannon",
+                    "Vanish Cap"
                 ],
                 "ConditionalRequirements": []
             },
@@ -469,10 +471,20 @@
                 "ConditionalRequirements": []
             },
             {
-                "exists": true
+                "exists": true,
+                "StarRequirement": "0",
+                "Requirements": [
+                    "Metal Cap"
+                ],
+                "ConditionalRequirements": []
             },
             {
-                "exists": true
+                "exists": true,
+                "StarRequirement": "0",
+                "Requirements": [
+                    "Metal Cap"
+                ],
+                "ConditionalRequirements": []
             },
             {
                 "exists": true
@@ -568,10 +580,20 @@
                 "ConditionalRequirements": []
             },
             {
-                "exists": true
+                "exists": true,
+                "StarRequirement": "0",
+                "Requirements": [
+                    "Metal Cap"
+                ],
+                "ConditionalRequirements": []
             },
             {
-                "exists": true
+                "exists": true,
+                "StarRequirement": "0",
+                "Requirements": [
+                    "Metal Cap"
+                ],
+                "ConditionalRequirements": []
             },
             {
                 "exists": true
@@ -610,10 +632,22 @@
                 "exists": true
             },
             {
-                "exists": true
+                "exists": true,
+                "StarRequirement": "0",
+                "Requirements": [
+                    "Vanish Cap",
+                    "Metal Cap"
+                ],
+                "ConditionalRequirements": []
             },
             {
-                "exists": true
+                "exists": true,
+                "StarRequirement": "0",
+                "Requirements": [
+                    "Vanish Cap",
+                    "Metal Cap"
+                ],
+                "ConditionalRequirements": []
             },
             {
                 "exists": true
@@ -764,13 +798,22 @@
     "Bowser 3": {
         "Stars": [
             {
-                "exists": true
+                "exists": true,
+                "Requirements": [
+                    "Vanish Cap"
+                ]
             },
             {
-                "exists": true
+                "exists": true,
+                "Requirements": [
+                    "Vanish Cap"
+                ]
             },
             {
-                "exists": true
+                "exists": true,
+                "Requirements": [
+                    "Vanish Cap"
+                ]
             },
             {
                 "exists": false
@@ -1190,7 +1233,8 @@
                 "exists": true,
                 "StarRequirement": "20",
                 "Requirements": [
-                    "Vanish Cap"
+                    "Vanish Cap",
+                    "Metal Cap"
                 ],
                 "ConditionalRequirements": []
             },
