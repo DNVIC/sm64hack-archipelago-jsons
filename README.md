@@ -17,5 +17,5 @@ JSON Author credit:
 * duckSM64/mr.zebra - SM74 Ten Years After
 * zuils - Super Mario 74
 * GraymonDgt - Unoriginal Cringe Meme Hack, Kaizo Mario 64
-* Awesome7285 - Star Revenge 6.5, Star Revenge 7, Star Revenge 1, Star Revenge 2 TTM, Star Revenge 3, Star Revenge 5, Star Revenge 1.5, Star Revenge 8 Advanced, Peach's Memory, Star Revenge 4, Star Revenge 6, Star Revenge 0.5, Super Mario 74 Extreme Edition
+* Awesome7285 - Star Revenge 6.5, Star Revenge 7, Star Revenge 1, Star Revenge 2 TTM, Star Revenge 3, Star Revenge 5, Star Revenge 1.5, Star Revenge 8 Advanced, Peach's Memory, Star Revenge 4, Star Revenge 6, Star Revenge 0.5, Super Mario 74 Extreme Edition, Mario's Nightmare 64
 * Iwer Sonsch - Ztar Attack 2, Plutonium Mario 64, Star Revenge 4.9, Star Revenge 2.5
