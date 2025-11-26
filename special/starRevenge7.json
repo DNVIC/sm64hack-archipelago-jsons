@@ -486,13 +486,13 @@
             {
                 "exists": true,
                 "StarRequirement": "0",
-                "Requirements": [],
+                "Requirements": ["Super Badge"],
                 "ConditionalRequirements": []
             },
             {
                 "exists": true,
                 "StarRequirement": "0",
-                "Requirements": [],
+                "Requirements": ["Super Badge"],
                 "ConditionalRequirements": []
             },
             {
