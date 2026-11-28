@@ -1,5 +1,6 @@
 # sm64hack-archipelago-jsons
 Simple repository of all current working JSON files for sm64 romhacks
+Do NOT download files from here manually unless you are planning on editing them using the JSON editor, the apworld will download the files from this repository automatically whenever you generate a game.
 
 If you want the randomizer itself, it can be found [here](https://github.com/DNVIC/archipelago-sm64hacks/)
 
